@@ -1,0 +1,23 @@
+{
+    "name": "com.anatawa12.error-reporter.editor",
+    "references": [
+        "GUID:295ffbe0b63504ae3a7879cf089501ba",
+        "GUID:8264e72376854221affe9980c91c2fff",
+        "GUID:154f06358ae9b41019713ed2096fa7f0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VRCSDK3A.dll",
+        "VRCSDKBase.dll",
+        "VRCSDKBase-Editor.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

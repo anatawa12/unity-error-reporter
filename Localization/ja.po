@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Language: ja\n"
+
+msgid "locale:ja"
+msgstr "日本語"
+
+msgid "ErrorReporter:error.internal_error"
+msgstr "内部エラーが発生しました: {0} 以下の処理中です:"
