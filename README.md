@@ -1,6 +1,8 @@
 Error Reporter for Non-Destructive Avatar Modification Tools
 ====
 
+This is no longer under developement. Please wait for NDMF have error reporter
+
 [![GitHub release][shields-latest-release]][github-latest]
 [![GitHub deployments][shields-deployment-master]][github-latest]
 [![GitHub deployments][shields-deployment-vpm]][vpm-repository]
